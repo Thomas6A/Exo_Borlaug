@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: gainsboro;
+    font-family: sans-serif;
+}
+
+figure{
+    background-color: white;
+}
+
+.Texte{
+    font-style: italic;
+    width: 550px;
+    margin: auto;
+    text-align: left;
+
+}
+#Wiki{
+    font-size: large;
+    font-weight: bold;
+}
+li{
+    padding-top: 20px;
+}
+figcaption{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+span{
+    font-weight: bold;
+}
+ul{
+    width: 500px;
+    margin: auto;
+    text-align: left;
+}
