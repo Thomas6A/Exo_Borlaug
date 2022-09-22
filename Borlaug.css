@@ -1,7 +1,12 @@
 body{
     text-align: center;
-    background-color: gainsboro;
+    
     font-family: sans-serif;
+}
+
+main{
+    padding-top: 20px;
+    background-color: gainsboro;
 }
 
 figure{
